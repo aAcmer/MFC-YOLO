@@ -1,0 +1,7 @@
+train: /home/jndx01/yang/PCB//train
+val: /home/jndx01/yang/PCB/val
+test: /home/jndx01/yang/PCB/val
+
+
+nc: 6
+names: ['missing_hole', 'mouse_bite', 'open_circuit', 'short', 'spur','spurious_copper']

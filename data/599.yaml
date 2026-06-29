@@ -1,0 +1,8 @@
+nc: 4 # number of classes
+# names: ["defect0","defect1","defect2","defect3"]
+names: ['pit', 'pit', 'pit', 'pit', ]
+
+
+train: /home/jndx01/yang/599/train
+val: /home/jndx01/yang/599/test
+test: /home/jndx01/yang/599/test

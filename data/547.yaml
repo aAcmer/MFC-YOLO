@@ -1,0 +1,7 @@
+nc: 9 # number of classes
+# names: ["defect0","defect1","defect2","defect3","defect4","defect5","defect6","defect7","defect8"]
+names: ['scratch', 'scratch', 'scratch', 'scratch', 'scratch', 'scratch', 'scratch', 'scratch', 'scratch', ]
+
+train: /home/jndx01/yang/547/train
+val: /home/jndx01/yang/547/test
+test: /home/jndx01/yang/547/test

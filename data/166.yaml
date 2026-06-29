@@ -1,0 +1,6 @@
+nc: 5 # number of classes
+names: ["defect0","defect1","defect2","defect3","defect4"]
+
+train: /home/jndx01/yang/yolov5-master/166/train
+val: /home/jndx01/yang/yolov5-master/166/test
+test: /home/jndx01/yang/yolov5-master/166/test

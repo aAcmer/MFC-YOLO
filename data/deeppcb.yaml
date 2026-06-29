@@ -1,0 +1,7 @@
+train: /home/jndx01/yang/deeppcb//train
+val: /home/jndx01/yang/deeppcb/test
+test: /home/jndx01/yang/deeppcb/test
+
+
+nc: 6
+names: ['open', 'short', 'mousebite', 'spur', 'copper', 'pin-hole']

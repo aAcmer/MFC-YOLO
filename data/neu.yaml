@@ -1,0 +1,7 @@
+train: /home/jndx01/yang/neu/train
+val: /home/jndx01/yang/neu/test
+test: /home/jndx01/yang/neu/test
+
+
+nc: 6
+names: ['crazing', 'inclusion', 'patches', 'pitted_surface', 'rolled-in_scale', 'scratches']

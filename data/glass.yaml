@@ -1,0 +1,7 @@
+train: /home/jndx01/yang/glass/train
+val: /home/jndx01/yang/glass/test
+test: /home/jndx01/yang/glass/test
+
+
+nc: 3
+names: ['defect1','defect2','defect3']
